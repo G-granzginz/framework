@@ -1,4 +1,4 @@
 <?php
 
-); // bad syntax
+return ')'; // bad syntax
 
